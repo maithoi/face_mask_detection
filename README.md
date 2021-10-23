@@ -12,17 +12,37 @@ After the process of experimentation and evaluation, I have successfully built a
 
 https://drive.google.com/file/d/147lo_Z_4tzrFClZFI66h_ilSnOTEIf0f/view?usp=sharing
 
-## Training 
-The training process is done using Darnet library on Google Colab software. 
-
 
 ## Model 
 ***Trained face-mask detection model using YOLOv4 algorithm.***
 
 https://colab.research.google.com/drive/14dmSPul6nPCNaKBnOVyUQSgr_jLYWsfs?usp=sharing
 
+## Training 
+
+The training process is done using Darnet library on Google Colab software. 
+
+![Training flow using Darnet library](https://github.com/maithoi/face_mask_detection/blob/main/YOLOv4%20training-flow.png)
+
+## Prediction 
+
+The inferencing process is done using Darnet libary on Google Colab software. 
+![Prediction flow using Darnet library](https://github.com/maithoi/face_mask_detection/blob/main/Face%20mask%20prediction.png)
+
+![No Mask Detection](https://github.com/maithoi/face_mask_detection/blob/main/4-6b.png)
+
 ## Demo 
 https://www.youtube.com/watch?v=1tBw8-2VUuM&ab_channel=MaiV%C4%83nTh%E1%BB%9Di
 
+### Correct Mask Wearing Detection
 
+![Correct Mask Detection](https://github.com/maithoi/face_mask_detection/blob/main/4-4a.png)
+
+### No Mask Wearing Detection 
+
+![No Mask Detection](https://github.com/maithoi/face_mask_detection/blob/main/4-5a.png)
+
+### Incorrect Mask Wearing Detection
+
+![No Mask Detection](https://github.com/maithoi/face_mask_detection/blob/main/3-24.jpg)
 
