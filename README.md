@@ -27,6 +27,7 @@ The training process is done using Darnet library on Google Colab software.
 ## Prediction 
 
 The inferencing process is done using Darnet libary on Google Colab software. 
+
 ![Prediction flow using Darnet library](https://github.com/maithoi/face_mask_detection/blob/main/Face%20mask%20prediction.png)
 
 ![No Mask Detection](https://github.com/maithoi/face_mask_detection/blob/main/4-6b.png)
