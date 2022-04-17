@@ -22,13 +22,13 @@ https://colab.research.google.com/drive/14dmSPul6nPCNaKBnOVyUQSgr_jLYWsfs?usp=sh
 
 The training process is done using Darnet library on Google Colab software. 
 
-![Training flow using Darnet library](https://github.com/thoimai/face_mask_detection/blob/main/YOLOv4%20face%20mask%20training-flow.png)
+![Face mask training flow using Darnet library](https://github.com/thoimai/face_mask_detection/blob/main/YOLOv4%20face%20mask%20training-flow.png)
 
 ## Prediction 
 
 The inferencing process is done using Darnet libary on Google Colab software. 
 
-![Prediction flow using Darnet library](https://github.com/maithoi/face_mask_detection/blob/main/Face%20mask%20prediction.png)
+![Face mask prediction flow using Darnet library](https://github.com/thoimai/face_mask_detection/blob/main/YOLOv4%20face%20mask%20prediction.png)
 
 ![No Mask Detection](https://github.com/maithoi/face_mask_detection/blob/main/4-6b.png)
 
