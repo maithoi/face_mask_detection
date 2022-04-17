@@ -22,7 +22,7 @@ https://colab.research.google.com/drive/14dmSPul6nPCNaKBnOVyUQSgr_jLYWsfs?usp=sh
 
 The training process is done using Darnet library on Google Colab software. 
 
-![Training flow using Darnet library](https://github.com/maithoi/face_mask_detection/blob/main/YOLOv4%20training-flow.png)
+![Training flow using Darnet library](https://github.com/thoimai/face_mask_detection/blob/main/YOLOv4%20face%20mask%20training-flow.png)
 
 ## Prediction 
 
