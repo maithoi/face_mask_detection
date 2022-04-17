@@ -30,6 +30,7 @@ The inferencing process is done using Darnet libary on Google Colab software.
 
 ![Face mask prediction flow using Darnet library](https://github.com/thoimai/face_mask_detection/blob/main/YOLOv4%20face%20mask%20prediction.png)
 
+### Prediction result
 ![No Mask Detection](https://github.com/maithoi/face_mask_detection/blob/main/4-6b.png)
 
 ## Demo 
